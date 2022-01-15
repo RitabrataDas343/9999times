@@ -9,7 +9,7 @@ btn.onclick = function () {
         getFlag();
     }
     if (count === 1){
-        warning()
+        warning();
     }
 }
 
