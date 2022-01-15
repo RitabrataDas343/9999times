@@ -5,7 +5,7 @@ var disp = document.getElementById("display");
 btn.onclick = function () {
     count++;
     disp.innerHTML = count;
-    if (count === 5){
+    if (count === 9999){
         getFlag();
     }
     if (count === 1){
