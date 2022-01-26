@@ -112,11 +112,3 @@ body, html {
 #display{
   color: #00ff00;
 }
-
-#hint{
-  display: none;
-}
-
-#hint-here{
-  content: 'flag/flag.html';
-}
